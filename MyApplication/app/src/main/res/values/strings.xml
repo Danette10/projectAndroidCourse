@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="popup_title">Quitter l\'application</string>
+    <string name="popup_message">Voulez-vous vraiment quitter l\'application ?</string>
+    <string name="popup_yes">OUI</string>
+    <string name="popup_no">NON</string>
 </resources>

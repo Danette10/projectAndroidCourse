@@ -62,4 +62,12 @@
             android:id="@+id/btn3"
             android:text="Bouton 3" />
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:hint="Entrez votre nom"
+        android:inputType="textPersonName"
+        android:layout_margin="10dp"/>
+
 </LinearLayout>
